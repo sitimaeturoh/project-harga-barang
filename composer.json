@@ -1,0 +1,12 @@
+{
+    "name": "labsroom/harga-barang",
+    "authors": [
+        {
+            "name": "may",
+            "email": "myturoh@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.5"
+    }
+}
