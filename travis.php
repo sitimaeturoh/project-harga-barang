@@ -1,1 +1,2 @@
-languange :php
+language: php
+
