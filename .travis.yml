@@ -10,4 +10,4 @@ env:
 
 script:
  - "curl -u $FTP_USER:$FTP_PASS ftp://files.000webhost.com -Q 'mkd public_html/praktek_4D'"
- - "curl -T coba.php -u $FTP_USER:$FTP_PASS ftp://files.000webhost.com/public_html"
+ - "curl -T coba.php -u $FTP_USER:$FTP_PASS ftp://files.000webhost.com/public_html/"
